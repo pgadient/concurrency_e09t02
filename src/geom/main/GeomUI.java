@@ -40,7 +40,7 @@ import geom.shape.passthrough.PassThroughShape;
 public class GeomUI {
 	JFrame frame;
 	private int frameHeight = 470;					// window height
-	private int frameWidth = 710;					// window width
+	private int frameWidth = 750;					// window width
 	private JPanel canvas_left;
 	private JPanel canvas_right;
 	private Graphics2D g2d_left;
